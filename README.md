@@ -15,9 +15,28 @@ $<INSERT MATH SYMBOLS AND EQUATIONS HERE>$
 | Use Case | Text | Output |
 | :-------: | :----: | :------: |
 | Summation | \sum | $\sum$ |
+| Integration | \int | $\int$ |
 | - | \infty | $\infty$ |
 | Cause & Effect | \therefore | $\therefore$ |
 | Cause & Effect | \because | $\because$ |
+
+#### Equation
+| Text | Output |
+| :----: | :------: |
+| + | $+$ |
+| - | $-$ |
+| \pm | $\pm$ |
+| \mp | $\mp$ |
+| \times | $\times$ |
+| \div | $\div$ |
+| = | $=$ |
+| \equiv | $\equiv$ |
+| \approx | $\approx$ |
+| \thickapprox | $\thickapprox$ |
+| < | $<$ |
+| > | $>$ |
+| \leq | $\leq$ |
+| \geq | $\geq$ |
 
 #### Vector Notation
 | Text | Output |
@@ -37,10 +56,12 @@ $<INSERT MATH SYMBOLS AND EQUATIONS HERE>$
 | \delta | $\delta$ |
 | \Delta | $\Delta$ |
 | \epsilon | $\epsilon$ |
+| \eta | $\eta$ |
 | \varepsilon | $\varepsilon$ |
 | \gamma | $\gamma$ |
 | \lambda | $\lambda$ |
 | \mu | $\mu$ |
+| \nu | $\nu$ |
 | \omega | $\omega$ |
 | \Omega | $\Omega$ |
 | \phi | $\phi$ |
