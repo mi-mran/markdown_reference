@@ -1,17 +1,42 @@
 # Reference Sheet for Markdown
 
-## General
-### Formatting
-#### Tables
+## Table of Contents
 
-## Math
+1. <a href='#general'>General</a>
+
+    i. <a href='#general-formatting'>Formatting</a>
+    
+    &nbsp;&nbsp;&nbsp;&nbsp;a. <a href='#general-formatting-tables'>Tables</a>
+
+2. <a href='#math'>Math</a>
+
+    i. <a href='#math-fractions'>Fractions</a>
+
+    ii. <a href='#math-symbols'>Symbols</a>
+
+    &nbsp;&nbsp;&nbsp;&nbsp;a. <a href='#math-symbols-general'>General</a>
+
+    &nbsp;&nbsp;&nbsp;&nbsp;b. <a href='#math-symbols-equation'>Equations</a>
+
+    &nbsp;&nbsp;&nbsp;&nbsp;c. <a href='#math-symbols-vector'>Vector Notation</a>
+
+    &nbsp;&nbsp;&nbsp;&nbsp;d. <a href='#math-symbols-greek'>Greek Letters</a>
+
+<h2 id='general'>General</h2>
+<h3 id='general-formatting'>Formatting</h3>
+<h4 id='general-formatting-tables'>Tables</h4>
+
+<h2 id='math'>Math</h2>
+
 To include mathematical notation: 
 ```
 $<INSERT MATH SYMBOLS AND EQUATIONS HERE>$
 ```
-### Fractions
-### Symbols
-#### General
+
+<h3 id='math-fractions'>Fractions</h3>
+<h3 id='math-symbols'>Symbols</h3>
+<h4 id='math-symbols-general'>General</h4>
+
 | Use Case | Text | Output |
 | :-------: | :----: | :------: |
 | Summation | \sum | $\sum$ |
@@ -20,7 +45,8 @@ $<INSERT MATH SYMBOLS AND EQUATIONS HERE>$
 | Cause & Effect | \therefore | $\therefore$ |
 | Cause & Effect | \because | $\because$ |
 
-#### Equation
+<h4 id='math-symbols-equation'>Equations</h4>
+
 | Text | Output |
 | :----: | :------: |
 | + | $+$ |
@@ -38,7 +64,8 @@ $<INSERT MATH SYMBOLS AND EQUATIONS HERE>$
 | \leq | $\leq$ |
 | \geq | $\geq$ |
 
-#### Vector Notation
+<h4 id='math-symbols-vector'>Vector Notation</h4>
+
 | Text | Output |
 | :----: | :------: |
 | \cdot | $A \cdot B$ |
@@ -48,7 +75,8 @@ $<INSERT MATH SYMBOLS AND EQUATIONS HERE>$
 | \vec{c} | $\vec{c}$ |
 | \overrightarrow{abc} | $\overrightarrow{abc}$ |
 
-#### Greek Letters
+<h4 id='math-symbols-greek'>Greek Letters</h4>
+
 | Text | Output |
 | :----: | :------: |
 | \alpha | $\alpha$ |
