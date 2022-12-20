@@ -36,6 +36,10 @@
 
 *This is italic text.*
 
+This word<sup>has a superscript</sup>.
+
+This word<sub>has a subscript</sub>.
+
 > This is a block quote.
 
 1. This is an ordered list
@@ -63,6 +67,10 @@ This is a [link](https://www.google.com) to Google's homepage.
 **This is a bold text.**
 
 *This is italic text.*
+
+This word<sup>has a superscript</sup>.
+
+This word<sub>has a subscript</sub>.
 
 > This is a block quote.
 
