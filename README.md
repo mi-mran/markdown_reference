@@ -1,4 +1,4 @@
-# Reference Sheet for Markdown
+# Reference Sheet for Markdown :shipit:
 
 ## Table of Contents
 
@@ -6,7 +6,9 @@
 
     i. <a href='#general-formatting'>Formatting</a>
     
-    &nbsp;&nbsp;&nbsp;&nbsp;a. <a href='#general-formatting-tables'>Tables</a>
+    &nbsp;&nbsp;&nbsp;&nbsp;a. <a href='#general-formatting-text'>Text</a>
+
+    &nbsp;&nbsp;&nbsp;&nbsp;b. <a href='#general-formatting-tables'>Tables</a>
 
 2. <a href='#math'>Math</a>
 
@@ -24,7 +26,71 @@
 
 <h2 id='general'>General</h2>
 <h3 id='general-formatting'>Formatting</h3>
+<h4 id='general-formatting-text'>Text</h4>
+
+# This is a H1 header.
+## This is a H2 header.
+### This is a H3 header.
+
+**This is bold text.** 
+
+*This is italic text.*
+
+> This is a block quote.
+
+1. This is an ordered list
+2. This is an ordered list
+3. This is an ordered list
+
+- This is an unordered list
+- This is an unordered list
+- This is an unordered list
+
+`This is a formatted code text.`
+
+This is a [link](https://www.google.com) to Google's homepage.
+
+---
+(Above is a horizontal line.)
+
+![cat image alt text](https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/cute-photos-of-cats-curled-up-sleeping-1593184773.jpg?crop=0.9137115839243499xw:1xh;center,top&resize=768:*)
+
+```
+# This is a H1 header.
+## This is a H2 header.
+### This is a H3 header.
+
+**This is a bold text.**
+
+*This is italic text.*
+
+> This is a block quote.
+
+1. This is an ordered list
+2. This is an ordered list
+3. This is an ordered list
+
+- This is an unordered list
+- This is an unordered list
+- This is an unordered list
+
+`This is a formatted code text.`
+
+This is a [link](https://www.google.com) to Google's homepage.
+
+---
+(Above is a horizontal line.)
+
+![test image alt text](https://unsplash.com/photos/75715CVEJhI)
+
+![cat image alt text](https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/cute-photos-of-cats-curled-up-sleeping-1593184773.jpg?crop=0.9137115839243499xw:1xh;center,top&resize=768:*)
+```
+
 <h4 id='general-formatting-tables'>Tables</h4>
+
+| Column 1 Header | Column 2 Header | Column 3 Header |
+| :------- | :------: | -------: |
+| Left aligned | Centre aligned | Right aligned |
 
 <h2 id='math'>Math</h2>
 
