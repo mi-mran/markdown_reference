@@ -92,6 +92,12 @@ This is a [link](https://www.google.com) to Google's homepage.
 | :------- | :------: | -------: |
 | Left aligned | Centre aligned | Right aligned |
 
+```
+| Column 1 Header | Column 2 Header | Column 3 Header |
+| :------- | :------: | -------: |
+| Left aligned | Centre aligned | Right aligned |
+```
+
 <h2 id='math'>Math</h2>
 
 To include mathematical notation: 
